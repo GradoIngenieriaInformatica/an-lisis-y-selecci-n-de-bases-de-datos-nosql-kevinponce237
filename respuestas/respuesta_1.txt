@@ -1,1 +1,3 @@
 TIPO | Justificación corta
+ejercio 1 grupo b kevin 
+base de datos de grafos por que estan basadas en relaciones y este problema requiere un analisis en base a las relaciones  productos, usuarios y patrones de compra.
