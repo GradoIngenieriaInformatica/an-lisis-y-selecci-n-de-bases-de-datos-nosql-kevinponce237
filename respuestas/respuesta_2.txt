@@ -1,1 +1,3 @@
 TIPO | Justificación corta
+base de datos clave valor como redis dado que requiere una respuesta muy rapida y los datos de sesiones son temporales
+asi que el guardar los datos en cache es la mejor opcion 
