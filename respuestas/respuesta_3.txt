@@ -1,2 +1,1 @@
-TIPO | Justificación corta
-COLUMNAR| debido a que estas bases de datos son buenas para rlizar operaciones de agregacion (calculos) de una forma eficiente sobre grandes volumenes de datos 
+COLUMNAR | debido a que estas bases de datos son buenas para rlizar operaciones de agregacion (calculos) de una forma eficiente sobre grandes volumenes de datos 
